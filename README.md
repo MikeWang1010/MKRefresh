@@ -20,3 +20,7 @@
     };
     
     self.tableView.tableFooterView = [[UIView alloc]init];//消除tableView的FooterView的影响
+
+
+![image](https://github.com/MikeWang1010/MKRefresh/blob/master/MKRefresh/headRefreshView.png)
+![image](https://github.com/MikeWang1010/MKRefresh/blob/master/MKRefresh/footerRefreshView.png)
